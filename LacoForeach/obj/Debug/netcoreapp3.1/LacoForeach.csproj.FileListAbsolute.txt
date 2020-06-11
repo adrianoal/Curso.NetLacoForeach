@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\LacoForeach\LacoForeach\bin\Debug\netcoreapp3.1\LacoForeach.exe
+C:\Users\aalima5\Desktop\Code C#\LacoForeach\LacoForeach\bin\Debug\netcoreapp3.1\LacoForeach.deps.json
+C:\Users\aalima5\Desktop\Code C#\LacoForeach\LacoForeach\bin\Debug\netcoreapp3.1\LacoForeach.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\LacoForeach\LacoForeach\bin\Debug\netcoreapp3.1\LacoForeach.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\LacoForeach\LacoForeach\bin\Debug\netcoreapp3.1\LacoForeach.dll
+C:\Users\aalima5\Desktop\Code C#\LacoForeach\LacoForeach\bin\Debug\netcoreapp3.1\LacoForeach.pdb
+C:\Users\aalima5\Desktop\Code C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.dll
+C:\Users\aalima5\Desktop\Code C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.pdb
+C:\Users\aalima5\Desktop\Code C#\LacoForeach\LacoForeach\obj\Debug\netcoreapp3.1\LacoForeach.genruntimeconfig.cache
